@@ -24,8 +24,7 @@ Hoje atuo com **Microsoft Fabric, Databricks e Power BI** em projetos de dados p
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [**Olist – Pipeline Medalhão**](https://github.com/anderson-s-almeida/olist-medallion-pipeline) | Pipeline completo bronze → silver → gold com dados reais de e-commerce brasileiro, orquestrado pelo Airflow e consumido no Power BI | Databricks · PySpark · Delta · Airflow · Power BI |
-| *Em breve* | Relatório Power BI em formato PBIP com star schema e medidas DAX documentadas | Power BI · DAX |
+| [**Olist – Pipeline Medalhão**](https://github.com/anderson-s-almeida/olist-medallion-pipeline) | Pipeline completo bronze → silver → gold com dados reais de e-commerce brasileiro, orquestrado pelo Airflow, e relatório Power BI de 4 páginas com visual customizado em HTML/SVG via DAX | Databricks · PySpark · Delta · Airflow · Power BI · DAX |
 | *Em breve* | Coletânea de SQL para problemas de negócio (window functions, CTEs, coortes) | SQL |
 
 ---
