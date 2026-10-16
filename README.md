@@ -12,11 +12,13 @@ Hoje atuo com **Microsoft Fabric, Databricks e Power BI** em projetos de dados p
 
 | Área | Ferramentas |
 |---|---|
-| **Engenharia de dados** | Databricks · PySpark · Delta Lake · Microsoft Fabric (Lakehouse, Pipelines, Notebooks) · Apache Airflow |
-| **Linguagens** | SQL · Python · DAX · Power Query (M) |
-| **BI e visualização** | Power BI (modelagem, DAX, RLS, performance) |
+| **Engenharia de dados** | Databricks · PySpark · Delta Lake · Microsoft Fabric (Lakehouse, Pipelines, Notebooks) · Azure Synapse Analytics · Apache Airflow · Pentaho |
+| **Linguagens** | SQL · Python · DAX · Power Query (M) · VBA |
+| **BI e visualização** | Power BI (modelagem, DAX, RLS, performance) · Analysis Services (SSAS) · Report Builder |
+| **Bancos de dados** | SQL Server / SSMS · Delta Lake |
+| **Automação** | Power Automate · Power Apps |
 | **Cloud e DevOps** | Azure · Azure DevOps · Git · CI/CD · Docker |
-| **Integrações** | APIs REST (OAuth2) · SharePoint · SAP BW |
+| **Integrações** | APIs REST (OAuth2) · SharePoint · SAP BW · SAP CDS |
 
 ---
 
