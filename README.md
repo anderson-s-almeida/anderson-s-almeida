@@ -27,6 +27,16 @@ Hoje atuo com **Microsoft Fabric, Databricks e Power BI** em projetos de dados p
 | [**Olist – Pipeline Medalhão**](https://github.com/anderson-s-almeida/olist-medallion-pipeline) | Pipeline completo bronze → silver → gold com dados reais de e-commerce brasileiro, orquestrado pelo Airflow, e relatório Power BI de 4 páginas com visual customizado em HTML/SVG via DAX | Databricks · PySpark · Delta · Airflow · Power BI · DAX |
 | *Em breve* | Coletânea de SQL para problemas de negócio (window functions, CTEs, coortes) | SQL |
 
+#### 📊 Relatório Power BI – Olist
+
+| Visão geral | Produtos & Categorias |
+|---|---|
+| [![Visão geral](https://raw.githubusercontent.com/anderson-s-almeida/olist-medallion-pipeline/main/powerbi/img/tela1_visao_geral.png)](https://github.com/anderson-s-almeida/olist-medallion-pipeline/tree/main/powerbi) | [![Produtos](https://raw.githubusercontent.com/anderson-s-almeida/olist-medallion-pipeline/main/powerbi/img/tela2_produtos.png)](https://github.com/anderson-s-almeida/olist-medallion-pipeline/tree/main/powerbi) |
+| **Logística & Entregas** | **Vendedores** |
+| [![Logística](https://raw.githubusercontent.com/anderson-s-almeida/olist-medallion-pipeline/main/powerbi/img/tela3_logistica.png)](https://github.com/anderson-s-almeida/olist-medallion-pipeline/tree/main/powerbi) | [![Vendedores](https://raw.githubusercontent.com/anderson-s-almeida/olist-medallion-pipeline/main/powerbi/img/tela4_vendedores.png)](https://github.com/anderson-s-almeida/olist-medallion-pipeline/tree/main/powerbi) |
+
+<sub>Dashboard em HTML/CSS/SVG gerado por medidas DAX sobre a camada gold do Databricks · clique nas imagens para ver o projeto</sub>
+
 ---
 
 ### 💼 Experiência profissional (resumo)
