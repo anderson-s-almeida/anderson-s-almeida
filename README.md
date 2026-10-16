@@ -16,7 +16,7 @@ Hoje atuo com **Microsoft Fabric, Databricks e Power BI** em projetos de dados p
 | **Linguagens** | SQL · Python · DAX · Power Query (M) |
 | **BI e visualização** | Power BI (modelagem, DAX, RLS, performance) |
 | **Cloud e DevOps** | Azure · Azure DevOps · Git · CI/CD · Docker |
-| **Integrações** | APIs REST (OAuth2) · Salesforce · SharePoint · SAP BW |
+| **Integrações** | APIs REST (OAuth2) · SharePoint · SAP BW |
 
 ---
 
@@ -43,7 +43,7 @@ Hoje atuo com **Microsoft Fabric, Databricks e Power BI** em projetos de dados p
 
 - Pipelines de ingestão em **Microsoft Fabric** (bronze/silver/gold) a partir de SharePoint, APIs e bancos relacionais
 - Extração de dados via **API REST com OAuth2** e carga em Lakehouse
-- **Migração de relatórios** baseados em Excel/SAP BW para fontes modernas (Salesforce + Databricks)
+- **Migração de relatórios** baseados em Excel/SAP BW para fontes modernas (Databricks)
 - Otimização de relatórios Power BI lentos, substituindo conexões diretas por **notebooks particionados no Databricks**
 - Estruturação de **Git e CI/CD** para workspaces Fabric no Azure DevOps
 - Modelagem dimensional e desenvolvimento de dashboards financeiros, logísticos e comerciais
