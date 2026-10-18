@@ -26,6 +26,7 @@ Hoje atuo com **Microsoft Fabric, Databricks e Power BI** em projetos de dados p
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
+| [**Voos sobre o Brasil – Tempo Real**](https://github.com/anderson-s-almeida/voos-brasil-tempo-real) | Coleta a posição dos aviões na API da OpenSky (OAuth2) a cada 2 min, processa de forma incremental no Databricks (Auto Loader, medalhão), orquestrado pelo Airflow, e mostra um mapa ao vivo no Power BI | Python · API REST · Databricks · Auto Loader · Airflow · Power BI |
 | [**Olist – Pipeline Medalhão**](https://github.com/anderson-s-almeida/olist-medallion-pipeline) | Pipeline completo bronze → silver → gold com dados reais de e-commerce brasileiro, orquestrado pelo Airflow, e relatório Power BI de 4 páginas com visual customizado em HTML/SVG via DAX | Databricks · PySpark · Delta · Airflow · Power BI · DAX |
 | [**SQL para Análise de Negócio**](https://github.com/anderson-s-almeida/sql-analises-negocio) | 15 perguntas de negócio respondidas em SQL com dados da Olist: window functions, CTEs, coortes de retenção, curva ABC e qualidade de dados | SQL · Databricks SQL |
 
@@ -38,6 +39,12 @@ Hoje atuo com **Microsoft Fabric, Databricks e Power BI** em projetos de dados p
 | [![Logística](https://raw.githubusercontent.com/anderson-s-almeida/olist-medallion-pipeline/main/powerbi/img/tela3_logistica.png)](https://github.com/anderson-s-almeida/olist-medallion-pipeline/tree/main/powerbi) | [![Vendedores](https://raw.githubusercontent.com/anderson-s-almeida/olist-medallion-pipeline/main/powerbi/img/tela4_vendedores.png)](https://github.com/anderson-s-almeida/olist-medallion-pipeline/tree/main/powerbi) |
 
 <sub>Dashboard em HTML/CSS/SVG gerado por medidas DAX sobre a camada gold do Databricks · clique nas imagens para ver o projeto</sub>
+
+#### ✈️ Painel Power BI – Voos em tempo real
+
+[![Voos em tempo real](https://raw.githubusercontent.com/anderson-s-almeida/voos-brasil-tempo-real/main/powerbi/img/painel_voos.png)](https://github.com/anderson-s-almeida/voos-brasil-tempo-real)
+
+<sub>DirectQuery no Databricks · mapa com ícones gerados por DAX, girados pela direção do voo e coloridos pela fase · clique na imagem para ver o projeto</sub>
 
 ---
 
